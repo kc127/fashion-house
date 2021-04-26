@@ -3,7 +3,7 @@
 
 
 ### About
-*Fashion Unit* is an e-commerce retail web-portal that aims to allow users to shop for clothing items. This single page application displays product detail page with four main modules
+*Fashion House* is an e-commerce retail web-portal that aims to allow users to shop for clothing items. This single page application displays product detail page with four main modules
 
 * [Product Overview](#overview)
 * [Ratings & reviews](#ratings)
@@ -15,7 +15,7 @@ I was responsible for building the front end infrastructure for Product Overview
 ![](giphy.gif)
 
 ### Tech Stack
-*Fashion Unit* was primarily built with ReactJS on the front end and Node/Express on the backend. Other key technologies used are listed below:
+*Fashion House* was primarily built with ReactJS on the front end and Node/Express on the backend. Other key technologies used are listed below:
 
 * HTML
 * CSS
