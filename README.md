@@ -52,6 +52,7 @@ I was responsible for Product Overview Module. Here's my attempt at
 * User should be able to select quantity.
 * User should be able to add the product, size and quantity to the cart.
 
+
 ### Getting started
 1. Once you clone the repo, from the root directory run
    ```sh
@@ -120,3 +121,4 @@ Please learn more about the overall project and contibutors here:
 https://github.com/7-Oscillating-Owls/hoo-dunit
 
 Contributors [Ankur Tandan](https://github.com/agentanky), [Kanchan Chauhan](https://github.com/kc127), [Monica Bui](https://github.com/moneycabui), [Philip Ho](https://github.com/phil-ho)
+
