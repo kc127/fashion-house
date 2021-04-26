@@ -1,6 +1,5 @@
-## Fashion Unit
+## Fashion Unit - Product Overview Module
 
-Contributors [Ankur Tandan](https://github.com/agentanky), [Kanchan Chauhan](https://github.com/kc127), [Monica Bui](https://github.com/moneycabui), [Philip Ho](https://github.com/phil-ho)
 
 
 ### About
@@ -10,6 +9,8 @@ Contributors [Ankur Tandan](https://github.com/agentanky), [Kanchan Chauhan](htt
 * [Ratings & reviews](#ratings)
 * [Questions & Answers](#qna)
 * [Related Items & Outfit Creation](#related)
+
+I was responsible for building the front end infrastructure for Product Overview Module.
 
 ![](giphy.gif)
 
@@ -31,10 +32,25 @@ Contributors [Ankur Tandan](https://github.com/agentanky), [Kanchan Chauhan](htt
 * Node
 * Express
 
-### Minimum Viable Product
+### Wireframe for  Product Overview Module
 
-How the app works:
+I was responsible for Product Overview Module. Here's my attempt at
 
+![wireframe](./public/images/wireframe.png)
+
+### Minimum Viable Product - Product Overview
+
+#### User stories
+
+* User should be able to view all the styles available for a specific product id.
+* User should be able to select a specific style by clicking on it.
+* User should then be able to view all the images available corresponding to a specific style.
+* User should be able to browse between and zoom in on these photos in the image gallery.
+* User should also be view the images in default and expanded view.
+* User should be able to view product information such as product description, style name, product name, price corresponding to the specific style.
+* User should be able to select a size.
+* User should be able to select quantity.
+* User should be able to add the product, size and quantity to the cart.
 
 ### Getting started
 1. Once you clone the repo, from the root directory run
@@ -100,5 +116,7 @@ The Related Items & Comparison Module displays two sets of related products. The
 * List Behavior
 * Related Product List
 
-Please learn more about the project here:
+Please learn more about the overall project and contibutors here:
 https://github.com/7-Oscillating-Owls/hoo-dunit
+
+Contributors [Ankur Tandan](https://github.com/agentanky), [Kanchan Chauhan](https://github.com/kc127), [Monica Bui](https://github.com/moneycabui), [Philip Ho](https://github.com/phil-ho)
