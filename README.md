@@ -3,7 +3,6 @@
 Contributors [Ankur Tandan](https://github.com/agentanky), [Kanchan Chauhan](https://github.com/kc127), [Monica Bui](https://github.com/moneycabui), [Philip Ho](https://github.com/phil-ho)
 
 
-
 ### About
 *Fashion Unit* is an e-commerce retail web-portal that aims to allow users to shop for clothing items. This single page application displays product detail page with four main modules
 
@@ -52,6 +51,12 @@ Contributors [Ankur Tandan](https://github.com/agentanky), [Kanchan Chauhan](htt
 	 node server/server.js
 	 ```
 5. Navigate your browser to `localhost:3000/products/:product_id` (for the :product_id try 23175)
+
+### Git Workflow
+
+Our team utilized the Git workflow. The master branch contained our working code, and work on individual features were done on separate branch.
+
+We also used followed Agile workflow with Trello to keep track of our tickets. We held daily morning standups to track the progress made by each engineer and updated our tickets accordingly.
 
 ### Modules
 The _product detail page_ consists of four distinct modules:
