@@ -31,6 +31,13 @@ Contributors [Ankur Tandan](https://github.com/agentanky), [Kanchan Chauhan](htt
 * Node
 * Express
 
+### Wireframe 
+
+<svg width="581" height="445" viewBox="0 0 581 445" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="581" height="445" fill="white"/>
+</svg>
+
+
 ### Getting started
 1. Once you clone the repo, from the root directory run
    ```sh
