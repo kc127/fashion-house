@@ -1,9 +1,9 @@
 ## Fashion Unit - Product Overview Module
 
-
+![GitHub last commit](https://img.shields.io/github/last-commit/kc127/fashion-house) ![GitHub top language](https://img.shields.io/github/languages/top/kc127/fashion-house) ![David](https://img.shields.io/david/kc127/fashion-house) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kc127/fashion-house)
 
 ### About
-*Fashion House* is an e-commerce retail web-portal that aims to allow users to shop for clothing items. By integrating the front end with the Atelier API to access different data services, this single page application serves detailed information about product by organizing the information into four specific modules
+*Fashion House* is an e-commerce retail web-portal that aims to allow users to shop for apparel. By integrating the front end with the Atelier API to access different data services, this single page application serves detailed information about a specific product by organizing the information into four specific modules
 
 * [Product Overview](#overview)
 * [Ratings & reviews](#ratings)
