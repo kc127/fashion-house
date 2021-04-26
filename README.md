@@ -1,7 +1,11 @@
-## Dressify
+## Fashion Unit
+
+Contributors [Ankur Tandan](https://github.com/agentanky), [Kanchan Chauhan](https://github.com/kc127), [Monica Bui](https://github.com/moneycabui), [Philip Ho](https://github.com/phil-ho)
+
+
 
 ### About
-Dressify is an e-commerce retail web-portal that aims to allow users to shop for clothing items. This single page application displays product detail page with four main modules
+*Fashion Unit* is an e-commerce retail web-portal that aims to allow users to shop for clothing items. This single page application displays product detail page with four main modules
 
 * [Product Overview](#overview)
 * [Ratings & reviews](#ratings)
@@ -10,26 +14,81 @@ Dressify is an e-commerce retail web-portal that aims to allow users to shop for
 
 ![](giphy.gif)
 
-### Modules
-The _product detail page_ consists of 4 distinct modules:
+### Tech Stack
+*Fashion Unit* was primarily built with ReactJS on the front end and Node/Express on the backend. Other key technologies used are listed below:
 
+* HTML
+* CSS
+* Javascript
+* React
+* React Router
+* Axios
+* Jest
+* Enzyme
+* CircleCI
+* ESLint (AirBnB Style Guide)
+* Babel
+* Webpack
+* Node
+* Express
 
-
-## Getting started
+### Getting started
 1. Once you clone the repo, from the root directory run
    ```sh
      npm install
    ```
-2. You will need a gihub personal access token to access our API. Please create a file called
+2. You will need a gihub personal access token to access our API. Please create a file called 'token.js' at the root directory and copy and paste the following code in the newly created file:
+   ```sh
+     const token = <YOUR ACCESS TOKEN>;
+
+     module.exports = token;
 
 3. To compile, from the root directory run
    ```sh
 	 npx webpack
 	 ```
-3. To start server (default port 3000)
+4. To start server (default port 3000)
    ```sh
 	 node server/server.js
 	 ```
-1. Navigate your browser to `localhost:3000/products/:product_id` (for the :product_id try 23175)
+5. Navigate your browser to `localhost:3000/products/:product_id` (for the :product_id try 23175)
 
-`
+### Modules
+The _product detail page_ consists of four distinct modules:
+
+#### <a name="overview">Product Overview</a>
+
+The overview module is the top-most module on the Product Detail page. The main functionality contained within this module can be divided into several pieces:
+
+* Image Gallery
+* Product Information
+* Style Selector
+* Add to Cart
+
+#### <a name="ratings">Ratings & Reviews</a>
+
+The Ratings & Reviews module will allow viewing and submission of reviews for the product selected.  The functionality contained within this module can be divided into several pieces:
+* Write new review
+* Reviews List
+* Sorting
+* Rating Breakdown
+* Product Breakdown
+
+#### <a name="qna">Questions & Answers</a>
+
+The Questions & Answers module will allow asking and answering of questions for the product selected.  The functionality contained within this module can be divided into several pieces:
+* View questions
+* Search for a question
+* Asking a question
+* Answering a question
+
+#### <a name="related">Related Items & Outfit Creation</a>
+
+The Related Items & Comparison Module displays two sets of related products. The first set will be a list of products, determined internally, that are related to the product currently being viewed.  The second set will be a list, custom created by the user, of products which the user has grouped with the current product into an ‘outfit’.
+
+* Related Product Cards
+* List Behavior
+* Related Product List
+
+Please learn more about the project here:
+https://github.com/7-Oscillating-Owls/hoo-dunit
