@@ -3,7 +3,7 @@
 
 
 ### About
-*Fashion House* is an e-commerce retail web-portal that aims to allow users to shop for clothing items. This single page application displays product detail page with four main modules
+*Fashion House* is an e-commerce retail web-portal that aims to allow users to shop for clothing items. By integrating the front end with the Atelier API to access different data services, this single page application serves detailed information about product by organizing the information into four specific modules
 
 * [Product Overview](#overview)
 * [Ratings & reviews](#ratings)
@@ -15,7 +15,7 @@ I was responsible for building the front end infrastructure for Product Overview
 ![](giphy.gif)
 
 ### Tech Stack
-*Fashion House* was primarily built with ReactJS on the front end and Node/Express on the backend. Other key technologies used are listed below:
+*Fashion House* was primarily built with ReactJS on the front end and a lean Node/Express server on the backend. Other key technologies used are listed below:
 
 * HTML
 * CSS
@@ -34,7 +34,7 @@ I was responsible for building the front end infrastructure for Product Overview
 
 ### Wireframe for  Product Overview Module
 
-I was responsible for Product Overview Module. Here's my attempt at
+I was responsible for Product Overview Module. Here's my attempt
 
 ![wireframe](./public/images/wireframe.png)
 
@@ -74,11 +74,11 @@ I was responsible for Product Overview Module. Here's my attempt at
 	 ```
 5. Navigate your browser to `localhost:3000/products/:product_id` (for the :product_id try 23175)
 
-### Git Workflow
+### Git Workflow and Agile Practices
 
-Our team utilized the Git workflow. The master branch contained our working code, and work on individual features were done on separate branch.
+Our team utilized the Git workflow. The master branch contained our working code, and specific work on individual features were done on a separate branch. Daily code reviews were done for PR approvals.
 
-We also used followed Agile workflow with Trello to keep track of our tickets. We held daily morning standups to track the progress made by each engineer and updated our tickets accordingly.
+We also followed Agile practices by dividing the project into multiple reasonable sprints, daily standups and reflection.  With Trello board to keep track of our tickets, we held daily morning standups to track the progress made by each engineer and updated our tickets accordingly.
 
 ### Modules
 The _product detail page_ consists of four distinct modules:
