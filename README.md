@@ -31,6 +31,11 @@ Contributors [Ankur Tandan](https://github.com/agentanky), [Kanchan Chauhan](htt
 * Node
 * Express
 
+### Minimum Viable Product
+
+How the app works:
+
+
 ### Getting started
 1. Once you clone the repo, from the root directory run
    ```sh
