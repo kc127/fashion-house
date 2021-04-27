@@ -34,7 +34,7 @@ I was responsible for building the front end infrastructure for Product Overview
 
 ### Wireframe for  Product Overview Module
 
-I was responsible for Product Overview Module. Here's my attempt
+I was responsible for Product Overview Module. 
 
 <img width="1145" alt="Screen Shot 2021-04-26 at 11 26 54 AM" src="https://user-images.githubusercontent.com/5890251/116284817-5aeb9200-a742-11eb-891e-04768ffa1d69.png">
 
